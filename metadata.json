@@ -1,0 +1,6 @@
+{
+  "name": "AI Invoice OCR & GST System",
+  "description": "Enterprise AI Invoice OCR and GST processing system. Upload invoices, run AI field extraction, validate GSTIN numbers, detect duplicates, and export records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
